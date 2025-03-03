@@ -20,3 +20,7 @@ QWER to pick math options 1-4.
 If you want to make changes/additions, feel free to.
 
 Code was made with AI assistance.
+
+![Main Menu](https://i.imgur.com/qZmAOmp.png)
+
+![Gameplay](https://i.imgur.com/K0eOG2q.png)
